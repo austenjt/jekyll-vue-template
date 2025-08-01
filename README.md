@@ -19,6 +19,7 @@ jekyll-vue-template is an opinionated, but minimal boilerplate for creating stat
 - Sass language support in Vue single file components
 - eslint with Vue style guide plugin
 - Hot-reloading via BrowserSync
+- Deploy to Azure Static Web App: https://learn.microsoft.com/en-us/azure/static-web-apps/
 
 ## Installation
 
